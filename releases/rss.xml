@@ -4,9 +4,19 @@
         <title>CyberDrain Improved Partner Portal Blog</title>
         <link>https://tender-shirley-88a2cf.netlify.app/releases</link>
         <description>CyberDrain Improved Partner Portal Blog</description>
-        <lastBuildDate>Fri, 18 Feb 2022 11:56:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 14:28:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <copyright>Copyright © 2022 CyberDrain</copyright>
+        <item>
+            <title><![CDATA[CIPP-API - v1.7.1]]></title>
+            <link>https://tender-shirley-88a2cf.netlify.app/releases/CIPP-API/v1-7-1</link>
+            <guid>CIPP-API/v1-7-1</guid>
+            <pubDate>Fri, 18 Feb 2022 14:28:11 GMT</pubDate>
+            <description><![CDATA[What's Changed]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="whats-changed">What's Changed<a class="hash-link" href="#whats-changed" title="Direct link to heading">​</a></h2><ul><li>Dev to release by @KelvinTegelaar in <a href="https://github.com/KelvinTegelaar/CIPP-API/pull/119" target="_blank" rel="noopener noreferrer">https://github.com/KelvinTegelaar/CIPP-API/pull/119</a></li><li>bumped version by @KelvinTegelaar in <a href="https://github.com/KelvinTegelaar/CIPP-API/pull/120" target="_blank" rel="noopener noreferrer">https://github.com/KelvinTegelaar/CIPP-API/pull/120</a></li></ul><p><strong>Full Changelog</strong>: <a href="https://github.com/KelvinTegelaar/CIPP-API/compare/v1.7.0...v1.7.1" target="_blank" rel="noopener noreferrer">https://github.com/KelvinTegelaar/CIPP-API/compare/v1.7.0...v1.7.1</a></p>]]></content:encoded>
+            <category>CIPP-API</category>
+        </item>
         <item>
             <title><![CDATA[CIPP - v2.2.0]]></title>
             <link>https://tender-shirley-88a2cf.netlify.app/releases/CIPP/v2-2-0</link>

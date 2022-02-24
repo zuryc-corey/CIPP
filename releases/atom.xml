@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tender-shirley-88a2cf.netlify.app/releases</id>
     <title>CyberDrain Improved Partner Portal Blog</title>
-    <updated>2022-02-18T11:56:47.000Z</updated>
+    <updated>2022-02-18T14:28:11.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tender-shirley-88a2cf.netlify.app/releases"/>
     <subtitle>CyberDrain Improved Partner Portal Blog</subtitle>
     <icon>https://tender-shirley-88a2cf.netlify.app/img/CyberDrainIconOrangeWhite.png</icon>
+    <rights>Copyright © 2022 CyberDrain</rights>
+    <entry>
+        <title type="html"><![CDATA[CIPP-API - v1.7.1]]></title>
+        <id>CIPP-API/v1-7-1</id>
+        <link href="https://tender-shirley-88a2cf.netlify.app/releases/CIPP-API/v1-7-1"/>
+        <updated>2022-02-18T14:28:11.000Z</updated>
+        <summary type="html"><![CDATA[What's Changed]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="whats-changed">What's Changed<a class="hash-link" href="#whats-changed" title="Direct link to heading">​</a></h2><ul><li>Dev to release by @KelvinTegelaar in <a href="https://github.com/KelvinTegelaar/CIPP-API/pull/119" target="_blank" rel="noopener noreferrer">https://github.com/KelvinTegelaar/CIPP-API/pull/119</a></li><li>bumped version by @KelvinTegelaar in <a href="https://github.com/KelvinTegelaar/CIPP-API/pull/120" target="_blank" rel="noopener noreferrer">https://github.com/KelvinTegelaar/CIPP-API/pull/120</a></li></ul><p><strong>Full Changelog</strong>: <a href="https://github.com/KelvinTegelaar/CIPP-API/compare/v1.7.0...v1.7.1" target="_blank" rel="noopener noreferrer">https://github.com/KelvinTegelaar/CIPP-API/compare/v1.7.0...v1.7.1</a></p>]]></content>
+        <category label="CIPP-API" term="CIPP-API"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CIPP - v2.2.0]]></title>
         <id>CIPP/v2-2-0</id>
